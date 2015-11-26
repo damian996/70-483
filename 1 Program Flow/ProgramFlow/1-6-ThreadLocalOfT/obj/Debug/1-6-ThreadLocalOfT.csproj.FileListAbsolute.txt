@@ -1,0 +1,6 @@
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-6-ThreadLocalOfT\bin\Debug\1-6-ThreadLocalOfT.exe.config
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-6-ThreadLocalOfT\bin\Debug\1-6-ThreadLocalOfT.exe
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-6-ThreadLocalOfT\bin\Debug\1-6-ThreadLocalOfT.pdb
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-6-ThreadLocalOfT\obj\Debug\1-6-ThreadLocalOfT.exe
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-6-ThreadLocalOfT\obj\Debug\1-6-ThreadLocalOfT.pdb
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-6-ThreadLocalOfT\obj\Debug\1-6-ThreadLocalOfT.csprojResolveAssemblyReference.cache

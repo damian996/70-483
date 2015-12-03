@@ -12,7 +12,7 @@ namespace _1_4_Stopping_Thread
         static void Main(string[] args)
         {
             //To abort thread we can use Thread.Abort() method. However it is executed by other thread
-            //and may leave the stopped thread in a corrupt state. It is better to use sharred variable
+            //and may leave the stopped thread in a corrupted state. It is better to use sharred variable
             //that both thread can access and modify.
             bool stopped = false;
             Thread t = new Thread(new ThreadStart(() =>

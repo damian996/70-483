@@ -1,0 +1,6 @@
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-8-Task\bin\Debug\1-8-Task.exe.config
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-8-Task\bin\Debug\1-8-Task.exe
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-8-Task\bin\Debug\1-8-Task.pdb
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-8-Task\obj\Debug\1-8-Task.csprojResolveAssemblyReference.cache
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-8-Task\obj\Debug\1-8-Task.exe
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-8-Task\obj\Debug\1-8-Task.pdb

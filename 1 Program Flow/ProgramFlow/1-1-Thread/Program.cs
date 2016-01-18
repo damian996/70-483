@@ -22,7 +22,7 @@ namespace _1_1_Thread
             for (int i = 0; i < 4; i++)
             {
                 Console.WriteLine("Main thread: {0}", i);
-                Thread.Sleep(0); //tell the t thread that this thread has finished this iteration and main thread can continue.
+                Thread.Sleep(0); //tell the t thread that this thread has finished this iteration and t thread can continue.
             }
 
             t.Join(); //let the main thread wait until the t thread finishes

@@ -3,3 +3,4 @@ C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-7-ThreadPool\bin\Debug\1-7
 C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-7-ThreadPool\bin\Debug\1-7-ThreadPool.pdb
 C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-7-ThreadPool\obj\Debug\1-7-ThreadPool.exe
 C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-7-ThreadPool\obj\Debug\1-7-ThreadPool.pdb
+C:\Learning\Exams\70-483\1 Program Flow\ProgramFlow\1-7-ThreadPool\obj\Debug\1-7-ThreadPool.csprojResolveAssemblyReference.cache
